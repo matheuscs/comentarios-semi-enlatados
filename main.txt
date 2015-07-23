@@ -1,0 +1,9 @@
+callback(
+[
+{ "name": "[Q]Fora de escopo e sem clareza", "description": "Aparentemente sua dúvida não se refere a programação e consequentemente está fora do escopo do nosso site, além de não estar muito claro o que está acontecendo tornando impossível prestar ajuda até mesmo via comentários. Se puder melhorar sua pergunta, clique em [edit] para adicionar novas informações."},
+
+{ "name": "[Q]Pergunta em inglês", "description": "Poderia traduzir sua pergunta? Todo o conteúdo do nosso site é em português apenas."},
+
+{ "name": "[A] Respostas por link", "description": "Olá [username], bem vindo ao [pt.so]. Poderia trazer um pouco do conteúdo do link para o corpo da sua resposta? Links constantemente quebram, sendo assim, resposta que se baseiam apenas no link acabam ficando obsoletas mais rapidamente e são removidas. Entretanto, sempre é bom deixar o link como referência :)"},
+]
+)
